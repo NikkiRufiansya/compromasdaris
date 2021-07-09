@@ -84,7 +84,7 @@
         <a href="#"><img class="card-img-top" src="image/main1.jpg" alt=""></a>
         <div class="card-body">
          <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+            <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -96,7 +96,7 @@
         <a href="#"><img class="card-img-top" src="image/main2.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+          <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -108,7 +108,7 @@
         <a href="#"><img class="card-img-top" src="image/main3.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+         <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -120,7 +120,7 @@
         <a href="#"><img class="card-img-top" src="image/main4.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+            <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -132,7 +132,7 @@
         <a href="#"><img class="card-img-top" src="image/main5.jpg" alt=""></a>
         <div class="card-body">
          <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+           <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -144,7 +144,7 @@
         <a href="#"><img class="card-img-top" src="image/main6.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+           <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>

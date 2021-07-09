@@ -85,7 +85,7 @@
         <div class="card-body">
           <h4 class="card-title">
             <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+            <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -98,7 +98,7 @@
         <div class="card-body">
           <h4 class="card-title">
             <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+             <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>

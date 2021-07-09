@@ -84,7 +84,7 @@
         <a href="#"><img class="card-img-top" src="image/main13.jpg" alt=""></a>
         <div class="card-body">
          <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+          <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -96,7 +96,7 @@
         <a href="#"><img class="card-img-top" src="image/main14.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+           <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -108,7 +108,7 @@
         <a href="#"><img class="card-img-top" src="image/main15.jpg" alt=""></a>
         <div class="card-body">
          <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+          <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -120,7 +120,7 @@
         <a href="#"><img class="card-img-top" src="image/main16.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+            <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
@@ -132,7 +132,7 @@
         <a href="#"><img class="card-img-top" src="image/main17.jpg" alt=""></a>
         <div class="card-body">
           <center>
-          <a href="https://wa.me/6285791104447?text=" target="_blank">
+           <a href="https://wa.me/6289686946758?text=" target="_blank">
            <button type="button" class="btn btn-success"><i class="fa fa-whatsapp"></i> Pesan</button>  
           </a>
           </center>
